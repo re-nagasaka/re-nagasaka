@@ -53,12 +53,11 @@
 
 ## 📊 Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=re-nagasaka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-nagasaka&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top Languages" />
-
-<br /><br />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=re-nagasaka&theme=github_dark" alt="Profile Details" width="90%" />
+
+<br />
+
+<img height="180" src="https://streak-stats.demolab.com?user=re-nagasaka&theme=github-dark-blue&hide_border=true&date_format=Y/n/j" alt="GitHub Streak" />
 
 <br />
 
@@ -69,16 +68,6 @@
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=re-nagasaka&theme=github_dark" alt="Stats" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=re-nagasaka&theme=github_dark&utcOffset=9" alt="Productive Time" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=re-nagasaka&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy" />
 
 </div>
 
